@@ -1,0 +1,6 @@
+E:\GitHub\0xChessEngine\0xChessEngine\0xChessEngine C-DLL Wrapper\bin\Debug\0xChessEngine C-DLL Wrapper.exe.config
+E:\GitHub\0xChessEngine\0xChessEngine\0xChessEngine C-DLL Wrapper\bin\Debug\0xChessEngine C-DLL Wrapper.exe
+E:\GitHub\0xChessEngine\0xChessEngine\0xChessEngine C-DLL Wrapper\bin\Debug\0xChessEngine C-DLL Wrapper.pdb
+E:\GitHub\0xChessEngine\0xChessEngine\0xChessEngine C-DLL Wrapper\obj\Debug\0xChessEngine C-DLL Wrapper.csprojResolveAssemblyReference.cache
+E:\GitHub\0xChessEngine\0xChessEngine\0xChessEngine C-DLL Wrapper\obj\Debug\0xChessEngine C-DLL Wrapper.exe
+E:\GitHub\0xChessEngine\0xChessEngine\0xChessEngine C-DLL Wrapper\obj\Debug\0xChessEngine C-DLL Wrapper.pdb

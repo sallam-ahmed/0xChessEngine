@@ -1,0 +1,33 @@
+﻿Build started 5/19/2016 9:48:28 PM.
+     1>Project "E:\GitHub\0xChessEngine\0xChessEngine\0xChessEngine Console-Application\0xChessEngine Console-Application.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Agent.cpp Bitboard.cpp Chess.cpp EntryPoint.cpp Move.cpp MoveGeneration.cpp
+         Agent.cpp
+     1>e:\github\0xchessengine\0xchessengine\0xchessengine console-application\extrasbitboard.h(237): warning C4018: '<': signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         MoveGeneration.cpp
+     1>e:\github\0xchessengine\0xchessengine\0xchessengine console-application\extrasbitboard.h(237): warning C4018: '<': signed/unsigned mismatch
+         EntryPoint.cpp
+     1>e:\github\0xchessengine\0xchessengine\0xchessengine console-application\extrasbitboard.h(237): warning C4018: '<': signed/unsigned mismatch
+     1>e:\github\0xchessengine\0xchessengine\0xchessengine console-application\entrypoint.cpp(9): warning C4005: 'vec': macro redefinition
+         e:\github\0xchessengine\0xchessengine\0xchessengine console-application\movegeneration.h(8): note: see previous definition of 'vec'
+         Chess.cpp
+     1>e:\github\0xchessengine\0xchessengine\0xchessengine console-application\extrasbitboard.h(237): warning C4018: '<': signed/unsigned mismatch
+         Bitboard.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Move.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GitHub\0xChessEngine\0xChessEngine\x64\Debug\0xChessEngine Console-Application.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\GitHub\0xChessEngine\0xChessEngine\x64\Debug\0xChessEngine Console-Application.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GitHub\0xChessEngine\0xChessEngine\x64\Debug\0xChessEngine Console-Application.lib" /MACHINE:X64 x64\Debug\Agent.obj
+         x64\Debug\Bitboard.obj
+         x64\Debug\Chess.obj
+         x64\Debug\EntryPoint.obj
+         x64\Debug\Move.obj
+         x64\Debug\MoveGeneration.obj
+         0xChessEngine Console-Application.vcxproj -> E:\GitHub\0xChessEngine\0xChessEngine\x64\Debug\0xChessEngine Console-Application.exe
+     1>Done Building Project "E:\GitHub\0xChessEngine\0xChessEngine\0xChessEngine Console-Application\0xChessEngine Console-Application.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.73
